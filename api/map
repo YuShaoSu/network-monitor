@@ -1,0 +1,3 @@
+GW_BRIDGE: name: GW_MASTER, mac: 82:eb:21:d1:c9:45, ipv4: 172.19.0.2
+GW_BRIDGE: name: GW_MASTER, mac: 82:eb:21:d1:c9:45, ipv4: 172.19.0.1
+GW_BRIDGE: name: GW_MASTER, mac: 82:eb:21:d1:c9:45, ipv4: 172.19.0.3
